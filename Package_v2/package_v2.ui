@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>Package_v2Class</class>
+ <widget class="QWidget" name="Package_v2Class" >
+  <property name="objectName" >
+   <string notr="true">Package_v2Class</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Package_v2</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="package_v2.qrc"/>
+ </resources>
+ <connections/>
+</UI>
